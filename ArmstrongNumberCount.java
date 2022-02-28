@@ -43,6 +43,7 @@ public class ArmstrongNumberCount {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		armstrong(5);
+		System.out.println("Hello world");
 
 	}
 
